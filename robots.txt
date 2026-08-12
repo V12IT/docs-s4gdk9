@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-usahcu.soyouthinkyoucandriveva.com/sitemap.xml
